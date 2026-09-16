@@ -39,11 +39,13 @@ This provides a **touch-free and interactive way to control media or browser app
 
 ## 🛠️ Technologies Used
 
- Technology : Purpose 
- **Python** : Main programming language 
- **OpenCV** : Webcam access and image processing 
- **MediaPipe** : Hand landmark detection 
- **PyAutoGUI** : Simulating keyboard actions 
- **Time** : Gesture timing and delay control 
+ **Technology & Purpose**
+
+ 
+ - **Python**    : Main programming language 
+ - **OpenCV**    : Webcam access and image processing 
+ - **MediaPipe** : Hand landmark detection 
+ - **PyAutoGUI** : Simulating keyboard actions 
+ - **Time**      : Gesture timing and delay control 
 
  
