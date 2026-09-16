@@ -29,11 +29,12 @@ This provides a **touch-free and interactive way to control media or browser app
 
 
 **Working** 
-one finger : play/pause
-two fingers : volume increase
-three fingers: volume decrease
-four fingers : next video
-five fingures : before video
+
+- one finger : play/pause
+- two fingers : volume increase
+- three fingers: volume decrease
+- four fingers : next video
+- five fingures : before video
  
 
 ## 🛠️ Technologies Used
